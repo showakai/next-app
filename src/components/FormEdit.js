@@ -1,3 +1,4 @@
+"use client";
 import { addReview, removeRevies, removeReviews } from "@/lib/action";
 import { useTransition } from "react";
 
